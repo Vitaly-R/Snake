@@ -133,6 +133,7 @@ class Game:
                     self.__end_game = False
                     self.__snake = [[self.__S_WIDTH // 2, self.__S_HEIGHT // 2]]
                     self.__foods = list()
+                    self.__score = 0
 
     def __game_screen(self):
         """
