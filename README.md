@@ -1,4 +1,4 @@
-#Snake
+# Snake
 
 * In order to run the game, run Snake.py
 
